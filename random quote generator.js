@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 document.addEventListener('DOMContentLoaded', () => {
 
     var g = ["All our dreams can come true, if we have the courage to pursue them",
@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 })
-=======
+
 var g = ["All our dreams can come true, if we have the courage to pursue them",
     "The secret of getting ahead is getting started",
     "Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve ", "It’s hard to beat a person who never gives up",
